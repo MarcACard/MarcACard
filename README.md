@@ -6,8 +6,8 @@
 
 ### About Me
 
-- A West Coast transplant currently residing in Brooklyn, NY. 
-- I spend my days focused on Digital Marketing Integrations and AdTech @ [Logical Position](https://www.logicalposition.com/team). 
+- A West Coast transplant currently residing in NYC. 
+- I spend my days focused on Digital Marketing Integrations and Technology @ [Logical Position](https://www.logicalposition.com/team). 
 - Find me at night hacking on side projects and learning about software development. 
 - I'm big on pour-over coffee ☕️ and sci-fi novels. 🚀  🪐
 
