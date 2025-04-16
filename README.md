@@ -7,7 +7,7 @@ These days, I'm focused on full-stack and product engineering. I like working ac
 ### Current Projects
 
 - [**PromptCache**](https://www.promptcache.ai?ref=github.com) – Save and organize your favorite AI prompts in a web extension  
-- [**Playlist Preserve**](https://www.playlistpreserve.com?ref=github.com) – Version control for your Spotify playlists
+- [**Playlist Preserve**](https://www.playlistpreserve.com?ref=github.com) – Version control for your Apple Music playlists
 
 ---
 
